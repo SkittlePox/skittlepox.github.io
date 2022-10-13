@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Hi, I'm Ben
 
 I'm a researcher and engineer focused on creating [neurosymbolic](https://www.youtube.com/watch?v=HhymId8dr5Q) AI systems that are both interpretable and generally intelligent. I graduated Brown University with an ScB in [Computers and Minds](/assets/ic-proposal.pdf), an Independent Concentration I designed that centers on Artificial General Intelligence. I'm currently a first-year PhD student at Brown in Computer Science advised by [George Konidaris](https://cs.brown.edu/~gdk/). I'm grateful to be supported by the [NSF Graduate Research Fellowship](https://cs.brown.edu/news/2022/05/20/five-brown-cs-students-and-alums-receive-nsf-graduate-research-fellowships/).
 
