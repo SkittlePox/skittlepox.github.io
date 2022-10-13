@@ -17,7 +17,7 @@ I'm a researcher and engineer focused on creating [neurosymbolic](https://www.yo
 My research focus stems from a single hypothesis: language understanding is central to general intelligence. If we want to solve general AI, we need to solve language understanding, or _language grounding_. I (and my lab) thinks that the best way to do this is _to ground language to structured decision-processes_, like the ones used in Reinforcement Learning and Planning.
 
 
-I believe that a highly principled approach to solving this problem involves incorporating the knowledge of the precursors to artificial intelligence: Linguistics, Psychology, and Philosophy. These fields are a major inspiration for my work, and I try to draw from them in a faithful manner. I expound my philosophy in [my proposal for an Independent Concentration in Computers and Minds](/assets/ic-proposal.pdf).
+I believe that a highly principled approach to solving this problem involves incorporating the knowledge of the precursors to artificial intelligence: Linguistics, Psychology, and Philosophy. These fields are a major inspiration for my work, and I try to draw from them in a faithful manner. I expound my philosophy in [my proposal for an Independent Concentration in Computers and Minds](/files/ic-proposal.pdf).
 
 ### Academic Background
 
