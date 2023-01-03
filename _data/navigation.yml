@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+  
+  - title: "Library"
+    url: https://speeg.notion.site/Ben-s-Library-b48d1cb88e8f465baa8573a1c44b5d64
 
 #   - title: "Talks"
 #     url: /talks/    
