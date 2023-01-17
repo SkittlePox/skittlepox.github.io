@@ -3,8 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
    
-  - title: "Library"
-    url: /library/
+  - title: "Zotero Library"
+    url: https://www.zotero.org/benjamin-spiegel/library
+   
+  - title: "My Bookshelf"
+    url: https://speeg.notion.site/Ben-s-Library-b48d1cb88e8f465baa8573a1c44b5d64
   
 #   - title: "Books I'm Reading"
 #     url: https://speeg.notion.site/Ben-s-Library-b48d1cb88e8f465baa8573a1c44b5d64
