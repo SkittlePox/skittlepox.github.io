@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student at Brown CS thinking about the intersection of symbolic and connectioning systems that are both interpretable and generally intelligent. I graduated Brown University in 2022 with an ScB in [Computers and Minds](/files/ic-proposal.pdf) -- an Independent Concentration I designed that centers on Artificial General Intelligence -- and I'm currently advised by [George Konidaris](https://cs.brown.edu/~gdk/). I'm grateful to be supported by the [NSF Graduate Research Fellowship](https://cs.brown.edu/news/2022/05/20/five-brown-cs-students-and-alums-receive-nsf-graduate-research-fellowships/).
+Hi, I'm Ben. I'm a first-year PhD student at Brown in Computer Science. I graduated Brown University in 2022 with an ScB in [Computers and Minds](/files/ic-proposal.pdf) -- an Independent Concentration I designed that centers on Artificial General Intelligence -- and I'm currently advised by [George Konidaris](https://cs.brown.edu/~gdk/). I'm grateful to be supported by the [NSF Graduate Research Fellowship](https://cs.brown.edu/news/2022/05/20/five-brown-cs-students-and-alums-receive-nsf-graduate-research-fellowships/).
 
 ### Research Philosophy
 
