@@ -16,7 +16,7 @@ I did my undergrad at Brown as well and graduated in 2022 with an ScB in [Comput
 
 My research focus stems from a single hypothesis: language is central to intelligence and the way to solve language understanding is to _ground it_. I think the best way to do this is to _ground language to structured decision-processes_, like the ones used in Reinforcement Learning and Planning.
 
-I believe in taking a principled approach to solving this problem that involves incorporating ideas from Linguistics, Cognitive Science and Philosophy. I expound my philosophy in [my proposal for an Independent Concentration in Computers and Minds](/files/ic-proposal.pdf).
+I believe in taking a principled approach to solving this problem that involves incorporating ideas from Linguistics, Cognitive Science and Philosophy. I expound my philosophy in [my proposal](/files/ic-proposal.pdf) for an Independent Concentration in Computers and Minds.
 
 ### Personal Interests
 
