@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ben. I'm a first-year PhD student at Brown in Computer Science advised by [George Konidaris](https://cs.brown.edu/~gdk/). I'm grateful to be supported by the [NSF Graduate Research Fellowship](https://cs.brown.edu/news/2022/05/20/five-brown-cs-students-and-alums-receive-nsf-graduate-research-fellowships/).
+Hi! I'm beginning the second year of my PhD in Computer Science at Brown University and I'm advised by [George Konidaris](https://cs.brown.edu/~gdk/), though I also work with [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) and [Stefanie Tellex](https://cs.brown.edu/people/stellex/). My research is focused on endowing embodied agents with language understanding, and my approach to solving this problem is heavily inspired by literature in classical fields that have examined language and concepts such as linguistics, psychology, cognitive science, philosophy of mind/language, and semiotics.
 
-I did my undergrad at Brown as well and graduated in 2022 with an ScB in [Computers and Minds](/files/ic-proposal.pdf). 
+I'm grateful to be supported by the [NSF Graduate Research Fellowship](https://cs.brown.edu/news/2022/05/20/five-brown-cs-students-and-alums-receive-nsf-graduate-research-fellowships/).
 
 ### Research Philosophy
 
-My research focus stems from a single hypothesis: language is central to intelligence and the way to solve language understanding is to _ground it_. I think the best way to do this is to _ground language to structured decision-processes_, like the ones used in Reinforcement Learning and Planning.
+My research focus stems from the hypothesis that humans are interacting with a rich and highly structured decision process induced by their perception and action system, and that _natural language is precisely about this decision process_. In this view, understanding language is a matter of 1) approximating the human decision process using formalisms from reinforcement learning, and 2) grounding language to statements about this decision process.
 
-I believe in taking a principled approach to solving this problem that involves incorporating ideas from Linguistics, Cognitive Science and Philosophy. I expound my philosophy in [my proposal](/files/ic-proposal.pdf) for an Independent Concentration in Computers and Minds.
+My approach to solving this problem is inspired by ideas in linguistics, psychology, cognitive science, philosophy of mind/language, and semiotics. I track almost all the academic papers and books I read and make it available publicly [here](https://speeg.notion.site/speeg/Ben-s-Library-b48d1cb88e8f465baa8573a1c44b5d64/) and [here](https://www.zotero.org/benjamin-spiegel/library). Feel free to reach out and ask about anything in my library you're curious about!
 
 ### Personal Interests
 
-I enjoy [reading](https://speeg.notion.site/speeg/Ben-s-Library-b48d1cb88e8f465baa8573a1c44b5d64/), watching movies, bouldering, playing and listening to music (I'm a bit of an audiophile), playing pool, and solving Rubik's Cubes (my personal best for a 3 by 3 is 9.58s). I'm also a frequent reader of [LessWrong](https://www.lesswrong.com/) ([here's my profile](https://www.lesswrong.com/users/benjamin-spiegel) if you're curious), an avid listener of the [Making Sense](https://samharris.org/podcast/making-sense-episodes/) podcast, and I do mindfulness meditation.
+I enjoy [reading](https://speeg.notion.site/speeg/Ben-s-Library-b48d1cb88e8f465baa8573a1c44b5d64/), watching movies, surfing, bouldering, going to the gym, playing and listening to music (I'm a bit of an audiophile), playing pool, and solving Rubik's Cubes (my personal best for a 3 by 3 is 9.58s). I'm also a frequent reader of [LessWrong](https://www.lesswrong.com/) ([here's my profile](https://www.lesswrong.com/users/benjamin-spiegel) if you're curious), an avid listener of the [Making Sense](https://samharris.org/podcast/making-sense-episodes/) podcast, and I do mindfulness meditation.
