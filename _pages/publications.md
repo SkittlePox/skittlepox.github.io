@@ -11,9 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-R. Ma, L. Lam, **B.A. Spiegel**, A. Ganeshan, R. Patel, B. Abbatematteo, D. Paulius, S. Tellex, G. Konidaris, “Skill Generalization With Verbs” in _International Conference for Intelligent Robots and Systems (IROS) 2023_, Accepted. <u><a href="https://cs.brown.edu/~gdk/pubs/skillgen_verbs.pdf">Paper Link</a>.</u>
+**B.A. Spiegel**, Z. Yang, W. Jurayj, K. Ta, S. Tellex, and G.D. Konidaris. Informing Reinforcement Learning Agents by Grounding Natural Language to Markov Decision Processes. In submission.
 
-**B.A. Spiegel***, R. Rodriguez-Sanchez*, J. Wang, R. Patel, G.D. Konidaris, and S. Tellex. RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents. In _Proceedings of the Fortieth International Conference on Machine Learning_, July 2023. <u><a href="https://benjaminaspiegel.com/files/RLang_ICML2023__With_Objects_.pdf">Paper Link</a>.</u>
+R. Ma, L. Lam, **B.A. Spiegel**, A. Ganeshan, R. Patel, B. Abbatematteo, D.P. Paulius, S. Tellex, and G.D. Konidaris. Skill Generalization With Verbs, in _Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems_, October 2023. <u><a href="https://cs.brown.edu/~gdk/pubs/skillgen_verbs.pdf">Paper Link</a>.</u>
+
+**B.A. Spiegel\***, R. Rodriguez-Sanchez\*, J. Wang, R. Patel, G.D. Konidaris, and S. Tellex. RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents. In _Proceedings of the Fortieth International Conference on Machine Learning_, July 2023. <u><a href="https://benjaminaspiegel.com/files/RLang_ICML2023__With_Objects_.pdf">Paper Link</a>.</u>
 
 **B.A. Spiegel**, G.D. Konidaris. Guided Policy Search for Parameterized Skills using Adverbs. In the _Interactive Learning with Implicit Human Feedback Workshop_ at ICML 2023. <u><a href="https://benjaminaspiegel.com/files/Adverbs_ICML_Workshop.pdf">Paper Link</a>.</u>
 
