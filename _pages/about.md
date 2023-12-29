@@ -18,7 +18,7 @@ I'm grateful to be supported by the [NSF Graduate Research Fellowship](https://c
 
 My research focus stems from the hypothesis that humans are interacting with a rich and highly structured decision process that is induced by their perception and action cognition systems, and that **natural language is used to express information about this decision process**. In this view, understanding language is a matter of 1) modeling the human decision process using formalisms from reinforcement learning (these are often structured Markov Decision Processes), and 2) grounding language to statements about decision processes.
 
-I am deeply inspired by ideas in linguistics, psychology, cognitive science, philosophy of mind/language, and semiotics. I track almost all the academic papers and books I read, the lists (and some notes) are available publicly [here](https://speeg.notion.site/speeg/Ben-s-Library-b48d1cb88e8f465baa8573a1c44b5d64/) and [here](https://www.zotero.org/benjamin-spiegel/library). Feel free to reach out and ask about anything in my library!
+I am deeply inspired by ideas in linguistics, psychology, cognitive science, philosophy of mind/language, and semiotics. I track almost all the academic papers I read [here](https://www.zotero.org/benjamin-spiegel/library) and all the books I read [here](https://speeg.notion.site/5de77c8575634b90b4699d0f185295cb?v=5d06c59570144153b0381b41d8636e6f&pvs=4). Feel free to reach out and ask about anything in my library!
 
 ### Personal Interests
 
