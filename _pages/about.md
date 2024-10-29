@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Ben and I'm a third-year PhD student in Computer Science at Brown University advised by [George Konidaris](https://cs.brown.edu/~gdk/), and [Stefanie Tellex](https://cs.brown.edu/people/stellex/). My research is on grounding natural language to structured decision-making, and my approach is heavily inspired by ideas from linguistics, psychology, cognitive science, philosophy of mind/language, and semiotics.
+Hi! My name is Ben and I'm a third-year PhD student in Computer Science at Brown University advised by [George Konidaris](https://cs.brown.edu/~gdk/) and [Stefanie Tellex](https://cs.brown.edu/people/stellex/). My research is on grounding natural language to structured decision-making, and my approach is heavily inspired by ideas from linguistics, psychology, cognitive science, philosophy of mind/language, and semiotics.
 
 I'm grateful to be supported by the [NSF Graduate Research Fellowship](https://cs.brown.edu/news/2022/05/20/five-brown-cs-students-and-alums-receive-nsf-graduate-research-fellowships/) and the Brown University [Morgan Edwards](https://en.wikipedia.org/wiki/Morgan_Edwards) Fellowship.
 
