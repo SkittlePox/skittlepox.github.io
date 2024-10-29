@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Ben and I'm a third-year PhD student in Computer Science at Brown University advised by [George Konidaris](https://cs.brown.edu/~gdk/) and [Stefanie Tellex](https://cs.brown.edu/people/stellex/). My research is on grounding natural language to structured decision-making, and my approach is heavily inspired by ideas from linguistics, psychology, cognitive science, philosophy of mind/language, and semiotics.
+Hi! I'm Ben, a third-year PhD candidate in Computer Science at Brown University, working under the guidance of [George Konidaris](https://cs.brown.edu/~gdk/) and [Stefanie Tellex](https://cs.brown.edu/people/stellex/). My research focuses on bridging natural language with structured decision-making, drawing inspiration from linguistics, psychology, cognitive science, philosophy of mind/language, and semiotics.
 
-I'm grateful to be supported by the [NSF Graduate Research Fellowship](https://cs.brown.edu/news/2022/05/20/five-brown-cs-students-and-alums-receive-nsf-graduate-research-fellowships/) and the Brown University [Morgan Edwards](https://en.wikipedia.org/wiki/Morgan_Edwards) Fellowship.
-
-I was also the lead organizer for the [Brown Robotics Talk Series](https://yzylmc.github.io/brown-lab-talks/) for the year of 2023.
+I'm honored to be a recipient of the [NSF Graduate Research Fellowship](https://cs.brown.edu/news/2022/05/20/five-brown-cs-students-and-alums-receive-nsf-graduate-research-fellowships/) and the Brown University [Morgan Edwards](https://en.wikipedia.org/wiki/Morgan_Edwards) Fellowship. In 2023, I had the privilege of serving as the lead organizer for the [Brown Robotics Talk Series](https://yzylmc.github.io/brown-lab-talks/).
 
 ### Research Philosophy
 
-My research stems from the hypothesis that humans are interacting with a rich and highly structured decision process that is induced by their perception and action systems, and that **natural language is used to express information about this decision process**. In this view, understanding language is a matter of 1) modeling the human decision process using formalisms from reinforcement learning (these are often structured Markov Decision Processes), and 2) grounding language to statements about such decision processes.
+My research is grounded in the hypothesis that the human brain and body induces a rich and highly structured decision process. Following the tradition of linguistics, **natural language serves as a medium to express information about this decision process**. While my earlier work was concerned with engineered solutions to this **language grounding** problem using a formal language for semantics, my newer work takes a different approach to this problem using the tools of RL applied to emergent communication to generate synthetic languages about underlying environments.
 
-I am deeply inspired by ideas in linguistics, psychology, cognitive science, philosophy of mind/language, and semiotics. I track almost all the academic papers I read [here](https://www.zotero.org/benjamin-spiegel/library) and all the books I read [here](https://speeg.notion.site/5de77c8575634b90b4699d0f185295cb?v=a884d376bf6b4e5a99a27e9aa2e98698&pvs=4). Feel free to reach out and ask about anything in my library!
+My work is deeply influenced by interdisciplinary concepts from linguistics, psychology, cognitive science, philosophy of mind/language, and semiotics. I maintain a comprehensive record of my academic readings, with papers cataloged [here](https://www.zotero.org/benjamin-spiegel/library) and books listed [here](https://speeg.notion.site/5de77c8575634b90b4699d0f185295cb?v=a884d376bf6b4e5a99a27e9aa2e98698&pvs=4). I welcome discussions about any aspect of my research or reading list!
 
 ### Personal Interests
 
