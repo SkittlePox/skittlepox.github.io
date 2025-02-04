@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Ben, a third-year PhD candidate in Computer Science at Brown University, working under the guidance of [George Konidaris](https://cs.brown.edu/~gdk/) and [Stefanie Tellex](https://cs.brown.edu/people/stellex/). My research focuses on bridging natural language with structured decision-making, drawing inspiration from linguistics, psychology, cognitive science, philosophy of mind/language, and semiotics.
+Hi! I'm Ben, a third-year PhD candidate in Computer Science at Brown University, working under the guidance of [George Konidaris](https://cs.brown.edu/~gdk/). My research focuses on bridging natural language with structured decision-making, drawing inspiration from linguistics, psychology, cognitive science, philosophy of mind/language, and semiotics.
 
 I'm honored to be a recipient of the [NSF Graduate Research Fellowship](https://cs.brown.edu/news/2022/05/20/five-brown-cs-students-and-alums-receive-nsf-graduate-research-fellowships/) and the Brown University [Morgan Edwards](https://en.wikipedia.org/wiki/Morgan_Edwards) Fellowship. In 2023, I had the privilege of serving as the lead organizer for the [Brown Robotics Talk Series](https://yzylmc.github.io/brown-lab-talks/).
 
@@ -20,4 +20,4 @@ My work is deeply influenced by interdisciplinary concepts from linguistics, psy
 
 ### Personal Interests
 
-I enjoy reading, watching movies, playing ultimate frisbee, surfing, bouldering, going to the gym, playing piano, listening to music (I'm a bit of an audiophile), playing pool, and solving Rubik's Cubes (my personal best for a 3-by-3 is 9.58s, and my best Ao5 was ~12s). In recent times I was a frequent reader of [LessWrong](https://www.lesswrong.com/) ([here's my profile](https://www.lesswrong.com/users/benjamin-spiegel) if you're curious), an avid listener of the [Making Sense](https://samharris.org/podcast/making-sense-episodes/) podcast, and did mindfulness meditation.
+I enjoy reading, watching movies, playing ultimate frisbee, surfing, bouldering, going to the gym, playing piano, listening to music, playing pool, and solving Rubik's Cubes (my personal best for a 3-by-3 is 9.58s, and my best Ao5 was ~12s). I am an avid listener of the [Making Sense](https://samharris.org/podcast/making-sense-episodes/) podcast and practice mindfulness meditation.
