@@ -13,7 +13,7 @@ author_profile: true
 
 **B.A. Spiegel**, L. Gelfond, G.D. Konidaris. Visual Theory of Mind Enables the Invention of Proto-Writing. In _Proceedings of the Annual Meeting of the Cognitive Science Society_, July 2025. **Accepted for oral presentation.** <u><a href="https://benjaminaspiegel.com/files/Siggame_CogSci_2025.pdf">Paper Link</a>. <a href="https://x.com/superspeeg/status/1914691313318105305">Twitter/X Thread</a>. <a href="https://www.perplexity.ai/page/new-study-finds-that-ai-learns-u6myMBdRSX6Rb.SCTD8B9g">Perplexity Snippet</a>.</u>
 
-**B.A. Spiegel**, Z. Yang, W. Jurayj, B. Bachmann, S. Tellex, and G.D. Konidaris. Informing Reinforcement Learning Agents by Grounding Language to Markov Decision Processes. _In submission to ICML 2025_.
+**B.A. Spiegel**, Z. Yang, W. Jurayj, B. Bachmann, S. Tellex, and G.D. Konidaris. Informing Reinforcement Learning Agents by Grounding Language to Markov Decision Processes. _Forthcoming_.
 
 **B.A. Spiegel**, Z. Yang, W. Jurayj, K. Ta, S. Tellex, and G.D. Konidaris. Informing Reinforcement Learning Agents by Grounding Natural Language to Markov Decision Processes, in _Workshop on Training Agents with Foundation Models at RLC_, August 2024. <u><a href="https://benjaminaspiegel.com/files/NL2RLang_RLC_2023_TAFM.pdf">Paper Link</a>.</u>
 
