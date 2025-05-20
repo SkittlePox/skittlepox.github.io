@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Ben, a third-year PhD candidate in Computer Science at Brown University advised by [George Konidaris](https://cs.brown.edu/~gdk/). My research focuses on the **language grounding problem**, drawing inspiration from linguistics, cognitive science, philosophy of mind/language, and semiotics.
+Hi! I'm Ben, a third-year PhD candidate in Computer Science at Brown University advised by [George Konidaris](https://cs.brown.edu/~gdk/). My research focuses on the **language grounding problem**, and I draw inspiration from linguistics, cognitive science, philosophy of mind/language, and semiotics.
 
 I'm honored to be a recipient of the [NSF Graduate Research Fellowship](https://cs.brown.edu/news/2022/05/20/five-brown-cs-students-and-alums-receive-nsf-graduate-research-fellowships/) and the Brown University [Morgan Edwards](https://en.wikipedia.org/wiki/Morgan_Edwards) Fellowship. In 2023, I had the privilege of serving as the lead organizer for the [Brown Robotics Talk Series](https://yzylmc.github.io/brown-lab-talks/). I was also a founding member of the [Brown AI Safety Team](https://www.baist.ai/).
 
@@ -20,4 +20,4 @@ I maintain a (not always up to date) record of my academic readings, with [paper
 
 ### Personal Interests
 
-I enjoy reading, watching movies, playing ultimate frisbee, playing piano, listening to music, and solving Rubik's Cubes (my personal best for a 3-by-3 is 9.58s, and my best Ao5 was ~12s). I also practice mindfulness meditation and was briefly [a frequenter of LessWrong](https://www.lesswrong.com/users/benjamin-spiegel).
+I enjoy reading, watching movies, playing ultimate frisbee, playing piano, listening to music, and solving Rubik's Cubes (my personal best for a 3-by-3 is 9.58s, and my best Ao5 was ~12s). I also practice mindfulness meditation and was briefly a [frequenter of LessWrong](https://www.lesswrong.com/users/benjamin-spiegel).
