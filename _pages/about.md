@@ -24,6 +24,6 @@ I enjoy reading, watching movies, playing ultimate frisbee, playing piano, liste
 
 ## News
 - **April 2025:** My recent CogSci paper was [covered by Perplexity](https://www.perplexity.ai/page/new-study-finds-that-ai-learns-u6myMBdRSX6Rb.SCTD8B9g) and [mentioned in WIRED](https://www.wired.com/story/ai-lab-amazon-launches-vulcan-a-robot-that-can-feel/), after I made a [tweet thread](https://x.com/superspeeg/status/1914691313318105305) about it that got some attention.
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why did only humans invent graphical systems like writing?
+  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why did only humans invent graphical systems like writing?
 🧠✍️<br><br>In our new paper at <a href="https://twitter.com/cogsci_soc?ref_src=twsrc%5Etfw">@cogsci_soc</a>, we explore how agents learn to communicate using a model of pictographic signification similar to human proto-writing. 🧵👇 <a href="https://t.co/3NtveUk4hu">pic.twitter.com/3NtveUk4hu</a></p>&mdash; Benjamin Spiegel (@superspeeg) <a href="https://twitter.com/superspeeg/status/1914691313318105305?ref_src=twsrc%5Etfw">April 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - **April 2025:** My CogSci 2025 submission titled _Visual Theory of Mind Enables the Invention of Proto-Writing_ was accepted for oral presentation.
