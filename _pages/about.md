@@ -21,3 +21,7 @@ I maintain a (not always up to date) record of my academic readings, with [paper
 ### Personal Interests
 
 I enjoy reading, watching movies, playing ultimate frisbee, playing piano, listening to music, and solving Rubik's Cubes (my personal best for a 3-by-3 is 9.58s, and my best Ao5 was ~12s). I also practice mindfulness meditation and was briefly a [frequenter of LessWrong](https://www.lesswrong.com/users/benjamin-spiegel).
+
+## News
+- **April 2025:** My recent CogSci paper was [covered by Perplexity](https://www.perplexity.ai/page/new-study-finds-that-ai-learns-u6myMBdRSX6Rb.SCTD8B9g) and [mentioned in WIRED](https://www.wired.com/story/ai-lab-amazon-launches-vulcan-a-robot-that-can-feel/), after I made a [tweet thread](https://x.com/superspeeg/status/1914691313318105305) about it that got some attention.
+- **April 2025:** My CogSci 2025 submission titled _Visual Theory of Mind Enables the Invention of Proto-Writing_ was accepted for oral presentation.
