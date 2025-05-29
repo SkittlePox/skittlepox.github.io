@@ -14,7 +14,7 @@ I'm honored to be a recipient of the [NSF Graduate Research Fellowship](https://
 
 ### Research Philosophy
 
-Human perception and action systems induce a rich and highly structured decision process — **natural language serves as a medium to express information about this decision process**. My earlier works build toward highly engineered solutions to the **language grounding** problem using a [formal language for describing Markov Decision Processes](http://rlang.ai/master/) as a semantic representation, my newer work leverages multi-agent RL to generate synthetic languages about decision processes.
+Human perception and action systems induce a rich and highly structured decision process — **natural language serves as a medium to express information about this decision process**. My earlier works involve highly engineered solutions to the **language grounding** problem using a [formal language for describing Markov Decision Processes](http://rlang.ai/master/) as a semantic representation, my newer work leverages multi-agent RL to generate synthetic languages about decision processes.
 
 I maintain a (not always up to date) record of my academic readings, with [papers cataloged here](https://www.zotero.org/benjamin-spiegel/library) and [books listed here](https://speeg.notion.site/5de77c8575634b90b4699d0f185295cb?v=a884d376bf6b4e5a99a27e9aa2e98698&pvs=4).
 
