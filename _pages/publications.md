@@ -23,4 +23,4 @@ R. Ma, L. Lam, **B.A. Spiegel**, A. Ganeshan, R. Patel, B. Abbatematteo, D.P. Pa
 
 **B.A. Spiegel**, G.D. Konidaris. Guided Policy Search for Parameterized Skills using Adverbs. In the _Interactive Learning with Implicit Human Feedback Workshop_ at ICML 2023. <u><a href="https://benjaminaspiegel.com/files/Adverbs_ICML_Workshop.pdf">Paper Link</a>.</u>
 
-**B.A. Spiegel**, V Cheong, JE Kaplan, A Sanchez. MK-SQuIT: Synthesizing Questions using Iterative Template-filling. arXiv preprint arXiv:2011.02566. <u><a href="https://arxiv.org/abs/2011.02566">Paper Link</a>.</u>
+**B.A. Spiegel**, V Cheong, JE Kaplan, A Sanchez. MK-SQuIT: Synthesizing Questions using Iterative Template-filling. arXiv preprint arXiv:2011.02566. <u><a href="https://arxiv.org/abs/2011.02566">Paper Link</a>. <a href="https://developer.nvidia.com/blog/training-a-text2sparql-model-with-mk-squit-and-nemo/">Blog post</a> on NVIDIA's Developer Blog</u>
