@@ -19,6 +19,7 @@ Human perception and action systems induce a rich and highly structured decision
 I maintain a (not always up to date) record of my academic readings, with [papers cataloged here](https://www.zotero.org/benjamin-spiegel/library) and [books listed here](https://speeg.notion.site/5de77c8575634b90b4699d0f185295cb?v=a884d376bf6b4e5a99a27e9aa2e98698&pvs=4).
 
 ## News
+- **Jul 28th, 2025:** I wrote [a short substack post](https://superspeeg.substack.com/p/a-grounded-and-naturalistic-approach) describing the contributions of my recent paper at CogSci.
 - **Jun 4th, 2025:** My first position piece titled "AGI Is Not Multimodal" was [published at The Gradient](https://thegradient.pub/agi-is-not-multimodal/). Here's a short [tweet thread](https://x.com/superspeeg/status/1930277179121905815) about it, and a [Hacker News thread](https://news.ycombinator.com/item?id=44181613) that popped up. It was also [written about in TLDR AI](https://arc.net/l/quote/gertyzxg).
 - **Apr 24th, 2025:** My recent CogSci paper was [covered by Perplexity](https://www.perplexity.ai/page/new-study-finds-that-ai-learns-u6myMBdRSX6Rb.SCTD8B9g) and [mentioned in WIRED](https://www.wired.com/story/ai-lab-amazon-launches-vulcan-a-robot-that-can-feel/), after I made a [tweet thread](https://x.com/superspeeg/status/1914691313318105305) about it that got some attention:
   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Why did only humans invent graphical systems like writing?
