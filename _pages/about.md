@@ -29,4 +29,4 @@ I maintain a (not always up to date) record of my academic readings, with [paper
 
 ### Personal Interests
 
-I enjoy reading, watching movies, playing ultimate frisbee, playing piano, listening to music, and solving Rubik's Cubes (my personal best for a 3-by-3 is 9.58s, and my best Ao5 was ~12s). I also practice mindfulness meditation and was briefly a [frequenter of LessWrong](https://www.lesswrong.com/users/benjamin-spiegel).
+I enjoy reading, watching movies, playing ultimate frisbee, playing piano, listening to music, and solving Rubik's Cubes (my personal best for a 3-by-3 is 9.58s, and my best Ao5 was ~12s). I organize and facilitate a bi-weekly [Salon-style](http://www.benjamin-franklin-history.org/junto-club/) discussion group for grad students at Brown. I also practice mindfulness meditation, enjoy the [Making Sense podcast](https://www.samharris.org/podcasts) (though do not agree with Sam on all issues), and was briefly a [frequenter of LessWrong](https://www.lesswrong.com/users/benjamin-spiegel).
