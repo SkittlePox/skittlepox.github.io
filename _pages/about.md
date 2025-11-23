@@ -20,7 +20,7 @@ I maintain a (not always up to date) record of my academic readings, with [paper
 
 ## News
 - **Fall, 2025:** I'm on a talk circuit, giving "A Path to Language Understanding: Grounding Language to Markov Decision Processes".
-  - **November, 2025 (sched.):** I will be giving a talk at U Edinburgh in the Centre For Language Evolution.
+  - **November, 2025:** I gave two talks at U Edinburgh in the Centre For Language Evolution (host: Kenny Smith) and the School of Informatics (host: Dave Abel).
   - **October, 2025:** I gave a talk at UMass Amherst in the Autonomous Learning Lab (host: Philip Thomas).
   - **October, 2025:** I gave talks at MIT in the Computational Cognitive Science lab (host: Josh Tenenbaum) and the Computational Psycholinguistics Lab (host: Roger Levy).
 - **Jul 31st, 2025:** I gave my first oral presentation in the Computational Modeling 1 Talks session at CogSci 2025! Here's [a quick summary](https://open.substack.com/pub/superspeeg/p/a-grounded-and-naturalistic-approach?r=q8xul&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) of the paper on substack.
