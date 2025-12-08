@@ -14,9 +14,11 @@ I'm honored to be a recipient of the [NSF Graduate Research Fellowship](https://
 
 ### Research Philosophy
 
-I've published a full statement covering my research agenda [on my substack](https://open.substack.com/pub/superspeeg/p/we-should-evolve-language-models?r=q8xul&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)!
+I've published a full statement covering my research agenda [on my substack](https://open.substack.com/pub/superspeeg/p/we-should-evolve-language-models?r=q8xul&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true), but here's the TLDR:
 
-Human perception and action systems induce a rich and highly structured decision process — **natural language serves as a medium to express information about this decision process**. My earlier works involve highly engineered solutions to the **language grounding** problem using a [formal language for describing Markov Decision Processes](http://rlang.ai/master/) as a semantic representation, my current work leverages multi-agent RL to generate synthetic languages about decision processes, obviating the need for explicit syntactic or semantic supervision.
+The main thesis motivating my work is that language was invented by humans to reason about and describe their subjective experience of the world. To ground language, we must ultimately render it in terms of perception and action—the machinery of decision-making. At a high level, **my entire research agenda is about how to achieve this rendering.**
+
+My earlier works achieves this rendering using a [formal language for describing Markov Decision Processes](http://rlang.ai/master/) as a semantic representation. My current work uses multi-agent RL and Bayesian inference to explore the conditions by which artificial agents will invent human-like languages about their environment. I hypothesize that we can simulate core language _acquisition_, _invention_, and _understanding_ faculties that are responsible for natural languages in humans, which we can potentially apply to autonomously inventing artificial languages rivaling the expressivity of human language.
 
 I maintain a (not always up to date) record of my academic readings, with [papers cataloged here](https://www.zotero.org/benjamin-spiegel/library) and [books listed here](https://speeg.notion.site/5de77c8575634b90b4699d0f185295cb?v=a884d376bf6b4e5a99a27e9aa2e98698&pvs=4).
 
