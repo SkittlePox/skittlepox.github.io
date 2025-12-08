@@ -14,6 +14,8 @@ I'm honored to be a recipient of the [NSF Graduate Research Fellowship](https://
 
 ### Research Philosophy
 
+I've published a full statement covering my research agenda [on my substack](https://open.substack.com/pub/superspeeg/p/we-should-evolve-language-models?r=q8xul&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)!
+
 Human perception and action systems induce a rich and highly structured decision process — **natural language serves as a medium to express information about this decision process**. My earlier works involve highly engineered solutions to the **language grounding** problem using a [formal language for describing Markov Decision Processes](http://rlang.ai/master/) as a semantic representation, my current work leverages multi-agent RL to generate synthetic languages about decision processes, obviating the need for explicit syntactic or semantic supervision.
 
 I maintain a (not always up to date) record of my academic readings, with [papers cataloged here](https://www.zotero.org/benjamin-spiegel/library) and [books listed here](https://speeg.notion.site/5de77c8575634b90b4699d0f185295cb?v=a884d376bf6b4e5a99a27e9aa2e98698&pvs=4).
@@ -32,4 +34,4 @@ I maintain a (not always up to date) record of my academic readings, with [paper
 
 ### Personal Interests
 
-I enjoy reading, watching movies, playing ultimate frisbee, playing piano, listening to music, and solving Rubik's Cubes (my personal best for a 3-by-3 is 9.58s, and my best Ao5 was ~12s). I organize and facilitate a bi-weekly Salon-style discussion group for grad students at Brown called [Junto](http://www.benjamin-franklin-history.org/junto-club/). I also practice mindfulness meditation, enjoy the [Making Sense podcast](https://www.samharris.org/podcasts) (though do not agree with Sam on all issues), and was briefly a [frequenter of LessWrong](https://www.lesswrong.com/users/benjamin-spiegel). I'm also a proud alumni of [Brooklyn Technical High School](https://en.wikipedia.org/wiki/Brooklyn_Technical_High_School)!
+I enjoy reading, watching movies, playing ultimate frisbee, playing piano, listening to music, and solving Rubik's Cubes (my personal best for a 3-by-3 is 9.58s, and my best Ao5 was ~12s). I organize and facilitate a bi-weekly Salon-style discussion group for grad students at Brown called [Junto](http://www.benjamin-franklin-history.org/junto-club/). I also practice mindfulness meditation, enjoy the [Making Sense podcast](https://www.samharris.org/podcasts) (though do not agree with Sam on all issues), and was briefly a [frequenter of LessWrong](https://www.lesswrong.com/users/benjamin-spiegel). I'm also a proud alum of [Brooklyn Technical High School](https://en.wikipedia.org/wiki/Brooklyn_Technical_High_School)!
