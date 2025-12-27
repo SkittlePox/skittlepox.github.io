@@ -20,7 +20,7 @@ The main thesis motivating my work is that language was invented by humans to re
 
 My earlier works achieve this rendering using a [formal language for describing Markov Decision Processes](http://rlang.ai/master/) as a semantic representation. My current work uses multi-agent RL and Bayesian inference to explore the conditions by which artificial agents will invent human-like languages about their environment. I hypothesize that we can simulate core language _acquisition_, _invention_, and _understanding_ faculties that are responsible for natural languages in humans, which we can potentially apply to autonomously inventing artificial languages that rival the expressivity of human language.
 
-I maintain a (not always up to date) record of my academic readings, with [papers cataloged here](https://www.zotero.org/benjamin-spiegel/library) and [books listed here](https://speeg.notion.site/5de77c8575634b90b4699d0f185295cb?v=a884d376bf6b4e5a99a27e9aa2e98698&pvs=4).
+I maintain a (sometimes outdated) record of my academic readings, with [papers cataloged here](https://www.zotero.org/benjamin-spiegel/library) and [books listed here](https://speeg.notion.site/5de77c8575634b90b4699d0f185295cb?v=a884d376bf6b4e5a99a27e9aa2e98698&pvs=4).
 
 ## News
 - **Fall, 2025:** I'm on a talk circuit, giving "A Path to Language Understanding: Grounding Language to Markov Decision Processes".
