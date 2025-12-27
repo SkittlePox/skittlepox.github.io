@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Benjamin A. Spiegel"
   avatar           : "profile.png"
-  bio              : "PhD Student @ Brown CS"
+  bio              : "PhD Candidate @ Brown CS"
   location         : "Providence, RI"
   employer         :
   pubmed           :
@@ -104,13 +104,13 @@ author:
   lastfm           :
   lesswrong        : "https://www.lesswrong.com/users/benjamin-spiegel"
   linkedin         : "benjamin-spiegel"
-  orcid            : "https://orcid.org/0000-0001-9436-2683"
+  orcid            : # "https://orcid.org/0000-0001-9436-2683"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "superspeeg"
   vine             :
   weibo            :
   xing             :
