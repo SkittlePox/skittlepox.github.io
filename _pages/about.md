@@ -23,7 +23,9 @@ My earlier works achieve this rendering using a [formal language for describing 
 I maintain a (sometimes outdated) record of my academic readings, with [papers cataloged here](https://www.zotero.org/benjamin-spiegel/library) and [books listed here](https://speeg.notion.site/5de77c8575634b90b4699d0f185295cb?v=a884d376bf6b4e5a99a27e9aa2e98698&pvs=4).
 
 ## News
-- **Fall, 2025:** I'm on a talk circuit, giving "A Path to Language Understanding: Grounding Language to Markov Decision Processes".
+- **AY '25-'26:** I'm on a talk circuit, giving "A Path to Language Understanding: Grounding Language to Markov Decision Processes".
+  - **February, 2026:** I'm giving a talk at Stanford in the Cognitive Tools Lab (host: Judy Fan).
+  - **February, 2026:** I'm giving a talk at UC Berkeley in the Center for Human-Compatible Artificial Intelligence (host: Cam Allen).
   - **November, 2025:** I gave two talks at U Edinburgh in the Centre For Language Evolution (host: Kenny Smith) and the School of Informatics (host: Dave Abel).
   - **October, 2025:** I gave a talk at UMass Amherst in the Autonomous Learning Lab (host: Philip Thomas).
   - **October, 2025:** I gave talks at MIT in the Computational Cognitive Science lab (host: Josh Tenenbaum) and the Computational Psycholinguistics Lab (host: Roger Levy).
