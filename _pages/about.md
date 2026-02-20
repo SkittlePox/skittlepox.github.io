@@ -24,8 +24,8 @@ I maintain a (sometimes outdated) record of my academic readings, with [papers c
 
 ## News
 - **AY '25-'26:** I'm on a talk circuit, giving "A Path to Language Understanding: Grounding Language to Markov Decision Processes".
-  - **February, 2026:** I'm giving a talk at Stanford in the Cognitive Tools Lab (host: Judy Fan).
-  - **February, 2026:** I'm giving a talk at UC Berkeley in the Center for Human-Compatible Artificial Intelligence (host: Cam Allen).
+  - **February, 2026:** I gave a talk at Stanford's Department of Psychology in the Cognitive Tools Lab (host: Judy Fan).
+  - **February, 2026:** I a talk at UC Berkeley in the Center for Human-Compatible Artificial Intelligence (host: Cam Allen).
   - **November, 2025:** I gave two talks at U Edinburgh in the Centre For Language Evolution (host: Kenny Smith) and the School of Informatics (host: Dave Abel).
   - **October, 2025:** I gave a talk at UMass Amherst in the Autonomous Learning Lab (host: Philip Thomas).
   - **October, 2025:** I gave talks at MIT in the Computational Cognitive Science lab (host: Josh Tenenbaum) and the Computational Psycholinguistics Lab (host: Roger Levy).
