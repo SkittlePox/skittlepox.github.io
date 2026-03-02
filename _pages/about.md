@@ -24,11 +24,11 @@ I maintain a (sometimes outdated) record of my academic readings, with [papers c
 
 ## News
 - **AY '25-'26:** I'm on a talk circuit, giving "A Path to Language Understanding: Grounding Language to Markov Decision Processes".
-  - **February, 2026:** I gave a talk at Stanford's Department of Psychology in the Cognitive Tools Lab (host: Judy Fan).
-  - **February, 2026:** I a talk at UC Berkeley in the Center for Human-Compatible Artificial Intelligence (host: Cam Allen).
+  - **February, 2026:** I gave a talk at Stanford in the Cognitive Tools Lab within the Department of Psychology (host: Judy Fan).
+  - **February, 2026:** I gave a talk at UC Berkeley in the Center for Human-Compatible Artificial Intelligence (CHAI) (host: Cam Allen).
   - **November, 2025:** I gave two talks at U Edinburgh in the Centre For Language Evolution (host: Kenny Smith) and the School of Informatics (host: Dave Abel).
   - **October, 2025:** I gave a talk at UMass Amherst in the Autonomous Learning Lab (host: Philip Thomas).
-  - **October, 2025:** I gave talks at MIT in the Computational Cognitive Science lab (host: Josh Tenenbaum) and the Computational Psycholinguistics Lab (host: Roger Levy).
+  - **October, 2025:** I gave two talks at MIT in the Computational Cognitive Science lab (host: Josh Tenenbaum) and the Computational Psycholinguistics Lab (host: Roger Levy).
 - **Jul 31st, 2025:** I gave my first oral presentation in the Computational Modeling 1 Talks session at CogSci 2025! Here's [a quick summary](https://open.substack.com/pub/superspeeg/p/a-grounded-and-naturalistic-approach?r=q8xul&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) of the paper on substack.
 - **Jun 4th, 2025:** My first position piece titled "AGI Is Not Multimodal" was [published at The Gradient](https://thegradient.pub/agi-is-not-multimodal/). Here's a short [tweet thread](https://x.com/superspeeg/status/1930277179121905815) about it, and a [Hacker News thread](https://news.ycombinator.com/item?id=44181613) that popped up. It was also [written about in TLDR AI](https://arc.net/l/quote/gertyzxg). I wrote [a short substack post](https://superspeeg.substack.com/p/a-grounded-and-naturalistic-approach) describing how it connects to my broader research arc.
 - **Apr 24th, 2025:** My recent CogSci paper was [covered by Perplexity](https://www.perplexity.ai/page/new-study-finds-that-ai-learns-u6myMBdRSX6Rb.SCTD8B9g) and [mentioned in WIRED](https://www.wired.com/story/ai-lab-amazon-launches-vulcan-a-robot-that-can-feel/), after [I tweeted](https://x.com/superspeeg/status/1914691313318105305) about it:
