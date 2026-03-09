@@ -23,6 +23,7 @@ My earlier works achieve this rendering using a [formal language for describing 
 I maintain a (sometimes outdated) record of my academic readings, with [papers cataloged here](https://www.zotero.org/benjamin-spiegel/library) and [books listed here](https://speeg.notion.site/5de77c8575634b90b4699d0f185295cb?v=a884d376bf6b4e5a99a27e9aa2e98698&pvs=4).
 
 ## News
+- **Mar 9th, 2026:** I successfully delivered my Thesis Proposal to my committee of George Konidaris, Ellie Pavlick, and Michael Littman 🎉 I've also accepted a summer position as an ML Research Intern on the Behavior and Planning Team at [Nuro](https://www.nuro.ai/), an Autonomous Driving company in the SF Bay Area!
 - **AY '25-'26:** I'm on a talk circuit, giving "A Path to Language Understanding: Grounding Language to Markov Decision Processes".
   - **February, 2026:** I gave a talk at Stanford in the Cognitive Tools Lab within the Department of Psychology (host: Judy Fan).
   - **February, 2026:** I gave a talk at UC Berkeley in the Center for Human-Compatible Artificial Intelligence (CHAI) (host: Cam Allen).
