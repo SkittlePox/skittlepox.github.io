@@ -29,6 +29,7 @@ I keep a running record of my academic reading: [papers here](https://www.zotero
 - [**AGI Is Not Multimodal**](https://thegradient.pub/agi-is-not-multimodal/) (The Gradient, 2025) – a position piece arguing against the modality-centric view of general intelligence. Discussed on [Hacker News](https://news.ycombinator.com/item?id=44181613) and featured in [TLDR AI](https://arc.net/l/quote/gertyzxg).
 
 ## News
+- **September 2026:** I've moved to Boston to pursue research in MIT's [CoCoSci Lab](https://cocosci.mit.edu/), advised by [Matthias Hofer](https://matthiashofer.net/).
 - **June 2026:** I'm living in San Francisco for the summer as an ML Research Intern on the Behavior and Planning Team at [Nuro](https://www.nuro.ai/) — let's grab coffee!
 - **March 2026:** I successfully delivered my Thesis Proposal to my committee of George Konidaris, Ellie Pavlick, and Michael Littman 🎉
 - **AY '25-'26:** I've been on a talk circuit giving "A Path to Language Understanding: Grounding Language to Markov Decision Processes" – at MIT (CoCoSci, host: Josh Tenenbaum; CompPsyLing, host: Roger Levy), Stanford (Cognitive Tools Lab, host: Judy Fan), UC Berkeley (CHAI, host: Cam Allen), U Edinburgh (Centre for Language Evolution, host: Kenny Smith; School of Informatics, host: Dave Abel), and UMass Amherst (Autonomous Learning Lab, host: Philip Thomas).
