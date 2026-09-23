@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Ben, a final-year PhD candidate in Computer Science at Brown University advised by [George Konidaris](https://cs.brown.edu/~gdk/) and an incoming visiting researcher at MIT's [Comptuational Cognitive Science lab](https://cocosci.mit.edu/). My research focuses on how language and, more generally, _sign systems_ emerge and acquire meaning. My early work grounded language by mapping it to formal structures in decision-making ([RLang](http://rlang.ai/master/)); my current work argues that meaning should not be stipulated at all – that we should instead create the conditions for it to _emerge_ on its own. I draw inspiration from linguistics, cognitive science, philosophy of mind/language, and semiotics.
+Hi! I'm Ben, a final-year PhD candidate in Computer Science at Brown University advised by [George Konidaris](https://cs.brown.edu/~gdk/) and a Visiting Scholar at MIT's [Comptuational Cognitive Science lab](https://cocosci.mit.edu/). My research focuses on how language and, more generally, _sign systems_ emerge and acquire meaning. My early work grounded language by mapping it to formal structures in decision-making ([RLang](http://rlang.ai/master/)); my current work argues that meaning should not be stipulated at all – that we should instead create the conditions for it to _emerge_ on its own. I draw inspiration from linguistics, cognitive science, philosophy of mind/language, and semiotics.
 
 I'm a recipient of the [NSF Graduate Research Fellowship](https://cs.brown.edu/news/2022/05/20/five-brown-cs-students-and-alums-receive-nsf-graduate-research-fellowships/) and Brown's [Morgan Edwards](https://en.wikipedia.org/wiki/Morgan_Edwards) Fellowship. I was the lead organizer for the [Brown Robotics Talk Series](https://yzylmc.github.io/brown-lab-talks/), and a founding member of the [Brown AI Safety Team](https://www.baist.ai/).
 
@@ -28,7 +28,7 @@ I keep a running record of my academic reading: [papers here](https://www.zotero
 - [**AGI Is Not Multimodal**](https://thegradient.pub/agi-is-not-multimodal/) (The Gradient, 2025) – a position piece arguing against the modality-centric view of general intelligence. Discussed on [Hacker News](https://news.ycombinator.com/item?id=44181613) and featured in [TLDR AI](https://arc.net/l/quote/gertyzxg).
 
 ## News
-- **September 2026:** I've moved to Cambridge, MA to pursue research at MIT's [CoCoSci Lab](https://cocosci.mit.edu/), advised by [Matthias Hofer](https://matthiashofer.net/).
+- **September 2026:** I've moved to Cambridge to pursue research at MIT's [CoCoSci Lab](https://cocosci.mit.edu/), working with [Matthias Hofer](https://matthiashofer.net/).
 - **June 2026:** I'm living in San Francisco for the summer as an ML Research Intern on the Behavior and Planning Team at [Nuro](https://www.nuro.ai/) — let's grab coffee!
 - **March 2026:** I successfully delivered my Thesis Proposal to my committee of George Konidaris, Ellie Pavlick, and Michael Littman 🎉
 - **AY '25-'26:** I've been on a talk circuit giving "A Path to Language Understanding: Grounding Language to Markov Decision Processes" – at MIT (CoCoSci, host: Josh Tenenbaum; CompPsyLing, host: Roger Levy), Stanford (Cognitive Tools Lab, host: Judy Fan), UC Berkeley (CHAI, host: Cam Allen), U Edinburgh (Centre for Language Evolution, host: Kenny Smith; School of Informatics, host: Dave Abel), and UMass Amherst (Autonomous Learning Lab, host: Philip Thomas).
